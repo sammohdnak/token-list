@@ -1,0 +1,53 @@
+{
+  "timestamp": "2025-09-01T00:00:00.000Z",
+  "name": "PancakeSwap Extended test",
+  "version": {
+    "major": 2,
+    "minor": 16,
+    "patch": 523
+  },
+  "logoURI": "https://pancakeswap.finance/logo.png",
+  "keywords": ["pancakeswap", "extended"],
+  "tokens": [
+    {
+      "name": "Token A",
+      "symbol": "TOKA",
+      "address": "0xb18d2C07aF8dC709D97a531aE0611898fB28ba4e",
+      "chainId": 10143,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xb18d2C07aF8dC709D97a531aE0611898fB28ba4e.png"
+    },
+    {
+      "name": "Token B",
+      "symbol": "TOKB",
+      "address": "0xADAE6E5916dA6C41F5e2DaaE961Dc2e3AE9fD565",
+      "chainId": 10143,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xADAE6E5916dA6C41F5e2DaaE961Dc2e3AE9fD565.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x6a3122F950f9607C38320c053C7C7d0bdCFc115E",
+      "chainId": 10143,
+      "decimals": 6,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x6a3122F950f9607C38320c053C7C7d0bdCFc115E.png"
+    },
+    {
+      "name": "Token D",
+      "symbol": "TOKD",
+      "address": "0xA1D0e479F02Ab5980AC0a5ddf329477fCbd8383F",
+      "chainId": 10143,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0xA1D0e479F02Ab5980AC0a5ddf329477fCbd8383F.png"
+    },
+    {
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "address": "0x310A01b2B37EB72A536C8Cb8D6EeD630F4D724De",
+      "chainId": 10143,
+      "decimals": 18,
+      "logoURI": "https://tokens.pancakeswap.finance/images/0x310A01b2B37EB72A536C8Cb8D6EeD630F4D724De.png"
+    }
+  ]
+}
