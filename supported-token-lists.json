@@ -30,7 +30,7 @@
       "symbol": "USDC",
       "address": "0x6a3122F950f9607C38320c053C7C7d0bdCFc115E",
       "chainId": 10143,
-      "decimals": 6,
+      "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30491.png"
     },
     {
