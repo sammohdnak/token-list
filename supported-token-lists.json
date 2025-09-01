@@ -15,7 +15,7 @@
       "address": "0xb18d2C07aF8dC709D97a531aE0611898fB28ba4e",
       "chainId": 10143,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xb18d2C07aF8dC709D97a531aE0611898fB28ba4e.png"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30494.png"
     },
     {
       "name": "Token B",
@@ -23,7 +23,7 @@
       "address": "0xADAE6E5916dA6C41F5e2DaaE961Dc2e3AE9fD565",
       "chainId": 10143,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xADAE6E5916dA6C41F5e2DaaE961Dc2e3AE9fD565.png"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30490.png"
     },
     {
       "name": "USD Coin",
@@ -31,7 +31,7 @@
       "address": "0x6a3122F950f9607C38320c053C7C7d0bdCFc115E",
       "chainId": 10143,
       "decimals": 6,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x6a3122F950f9607C38320c053C7C7d0bdCFc115E.png"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30491.png"
     },
     {
       "name": "Token D",
@@ -39,7 +39,7 @@
       "address": "0xA1D0e479F02Ab5980AC0a5ddf329477fCbd8383F",
       "chainId": 10143,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0xA1D0e479F02Ab5980AC0a5ddf329477fCbd8383F.png"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30492.png"
     },
     {
       "name": "Wrapped Ether",
@@ -47,7 +47,7 @@
       "address": "0x310A01b2B37EB72A536C8Cb8D6EeD630F4D724De",
       "chainId": 10143,
       "decimals": 18,
-      "logoURI": "https://tokens.pancakeswap.finance/images/0x310A01b2B37EB72A536C8Cb8D6EeD630F4D724De.png"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30495.png"
     }
   ]
 }
