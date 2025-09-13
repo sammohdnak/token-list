@@ -1,6 +1,6 @@
 {
   "timestamp": "2025-09-01T00:00:00.000Z",
-  "name": "PancakeSwap Extended test",
+  "name": "MONAD Testnet Default test",
   "version": {
     "major": 2,
     "minor": 16,
@@ -10,44 +10,52 @@
   "keywords": ["pancakeswap", "extended"],
   "tokens": [
     {
-      "name": "Token A",
-      "symbol": "TOKA",
-      "address": "0xb18d2C07aF8dC709D97a531aE0611898fB28ba4e",
+      "name": "Wrapped Bitcoin",
+      "symbol": "WBTC",
+      "address": "0x4680A3bA38cDAAAe25AA1a094EAbA178d1C9A6dC",
       "chainId": 10143,
-      "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30494.png"
+      "decimals": 8,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
     },
     {
-      "name": "Token B",
-      "symbol": "TOKB",
-      "address": "0xADAE6E5916dA6C41F5e2DaaE961Dc2e3AE9fD565",
+      "name": "DAI",
+      "symbol": "DAI",
+      "address": "0xb08fad5f589d52a16EE962F156732110b8B7d337",
       "chainId": 10143,
       "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30490.png"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
     },
     {
       "name": "USD Coin",
       "symbol": "USDC",
-      "address": "0x6a3122F950f9607C38320c053C7C7d0bdCFc115E",
+      "address": "0xbb2f8C5149A17731296bB0cfA8C6988E7B95AD5f",
       "chainId": 10143,
-      "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30491.png"
+      "decimals": 6,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
     },
     {
-      "name": "Token D",
-      "symbol": "TOKD",
-      "address": "0xA1D0e479F02Ab5980AC0a5ddf329477fCbd8383F",
+      "name": "Monad PEPE",
+      "symbol": "MPEPE",
+      "address": "0x11Fa74b9905152870CA5a15f54E5af45b139013a",
       "chainId": 10143,
       "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30492.png"
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/24478.png"
     },
     {
-      "name": "Wrapped Ether",
-      "symbol": "WETH",
-      "address": "0x310A01b2B37EB72A536C8Cb8D6EeD630F4D724De",
+      "name": "Wrapped MON",
+      "symbol": "WMON",
+      "address": "0xaf8E38871489a4C27C846FCB067b3c28bD236D2b",
       "chainId": 10143,
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/30495.png"
+    },
+    {
+      "name": "Wrapped ETHER",
+      "symbol": "WETH",
+      "address": "0x1a215D48c48F292A7232c059887b11476304ADBC",
+      "chainId": 10143,
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/2396.png"
     }
   ]
 }
